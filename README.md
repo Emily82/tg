@@ -1,4 +1,4 @@
-##Fixed some code for build success.
+## Fixed some code for build success.
 With this version there is only need to just remove -Werror option and code will build succefully
 
 Emily82
