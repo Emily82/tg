@@ -1,11 +1,11 @@
+## Telegram messenger CLI [![Build Status](https://travis-ci.org/vysheng/tg.png)](https://travis-ci.org/vysheng/tg)
+
+Command-line interface for [Telegram](http://telegram.org). Uses readline interface.
+
 ## Fixed some code for build success.
 With this version there is only need to just remove -Werror option and code will build succefully
 
 Emily82
-
-## Telegram messenger CLI [![Build Status](https://travis-ci.org/vysheng/tg.png)](https://travis-ci.org/vysheng/tg)
-
-Command-line interface for [Telegram](http://telegram.org). Uses readline interface.
 
 ### API, Protocol documentation
 
