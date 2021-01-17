@@ -1,4 +1,4 @@
 [submodule "tgl"]
 	path = tgl
-	url = https://github.com/Emily82/tgl/tree/master
+	url = https://github.com/Emily82/tgl
 	branch = master
