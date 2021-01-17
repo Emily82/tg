@@ -6,7 +6,6 @@ dist: focal
 
 compiler:
   - gcc
-  - clang
 
 install:
  - sudo apt-get update
