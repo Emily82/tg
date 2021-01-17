@@ -12,7 +12,6 @@ install:
  - sudo apt-get update
  - sudo apt-get install libreadline-dev 
  - sudo apt-get install libconfig-dev
- - sudo apt-get install libconfig8-dev
  - sudo apt-get install libssl-dev
  - sudo apt-get install liblua5.2-dev lua5.2
  - sudo apt-get install python-dev python libpython-dev
